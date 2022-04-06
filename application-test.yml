@@ -14,4 +14,4 @@ eureka:
       defaultZone: http://localhost:7001/eureka
 
 config:
-  info: 1
+  info: 2
